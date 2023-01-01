@@ -1,7 +1,7 @@
 # Assignment-
 
 # find sum of odd nums of factors
-n = 68
+n = int(input("please enter num:"))
 f = []              # to store factors
 
 for i in range(2,n+1):
